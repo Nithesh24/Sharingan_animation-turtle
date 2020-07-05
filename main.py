@@ -84,7 +84,7 @@ try:
         time.sleep(0.01)
         i+=0.01
 except:
-    Print("Thanks for using")
+    print("Thanks for using")
     
         
       
